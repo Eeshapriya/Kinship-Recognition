@@ -51,7 +51,7 @@ senet50 55.42 72 62.20
 Table 1: Performance Metrics 
 
 From the plots, we obtain an accuracy of 60% with a loss value of 70.22 5
-CS271P Midterm Project Proposal Formatting Instructions - 2021 
+
 ## CONCLUSION 
 We have presented a baseline model for performing kinship recognition using Siamese neural net works on VGGFace pre-trained model. We experimented and compared performance by fitting on different model parameters and evaluated against various loss functions to obtain an ideal baseline model. 
 As a further development, this project can be extended to build search and retrieval applications by identifying the type of relationship between the images classified as related. 
